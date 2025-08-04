@@ -18,5 +18,5 @@ Frontend:
 
 📚 Kurs Yönetimi
 
-Kurs detay sayfaları
+- Kurs detay sayfaları
 
