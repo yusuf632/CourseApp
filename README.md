@@ -1,6 +1,4 @@
-🌐 Proje Tanımı (Sadık Turan tarafından öğrendim)
-
-Bu proje, ASP.NET Core MVC teknolojisi kullanılarak geliştirilmiş temel bir eğitim portalıdır. Modern web standartlarına uygun olarak tasarlanan uygulamadır.
+🌐 Proje Tanımı: Bu proje, ASP.NET Core MVC teknolojisi kullanılarak geliştirilmiş temel bir eğitim portalıdır. Modern web standartlarına uygun olarak tasarlanan uygulamadır.
 
 🛠 Teknoloji Yığını
 
